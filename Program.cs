@@ -16,7 +16,7 @@ namespace serverHoster
         static void Main(string[] args)
         {
             Console.Title = "ServerHoster";
-            Server.Start(100, 34564);
+            Server.Start(100, 756);
             Console.ReadKey();
         }
     }
