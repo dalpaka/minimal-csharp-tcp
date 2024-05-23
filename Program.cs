@@ -12,7 +12,7 @@ namespace serverHoster
 {
     class Program
     {
-        IEnumerable<char> someCharacters = "367567";
+        IEnumerable<char> avaiable__port = "367567";
         static void Main(string[] args)
         {
             Console.Title = "ServerHoster";
